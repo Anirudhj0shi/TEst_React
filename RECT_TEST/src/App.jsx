@@ -1,4 +1,3 @@
-// App.js
 import React from 'react';
 import { AuthProvider } from './AuthContext';
 import NestedComponent from './NestedComponent';
