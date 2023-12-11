@@ -1,0 +1,22 @@
+body{
+  background-color: blanchedalmond;
+}
+.card{
+  border: 5px solid black;
+  width: 50%;
+  margin-top: 130px;
+  margin-left: 300px;
+  box-shadow: 10px 10px 10px;
+}
+h1{
+  color: chocolate;
+  font-size: 50px;
+  border:2px solid black;
+  width: 100px;
+  margin-left: 210px;
+  box-shadow: 10px 10px 10px;
+}
+button{
+  width: 200px;
+  margin-left: 165px;
+}
