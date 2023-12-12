@@ -6,5 +6,5 @@ Within the component, it returns a div with a h1 displaying the current count st
 
 The UI elements in the code are structured in a way that allows users to interact with the buttons to increase or decrease the displayed count value.
 </p>
-<img src = url(![COUNTER](https://github.com/Anirudhj0shi/TEst_React/assets/141419375/68eef307-8d74-4769-8cd0-4d530fb18a8a)
-) />
+![COUNTER]("D:\ANIRUDH\GITHUBIMAGES\COUNTER.png")
+
